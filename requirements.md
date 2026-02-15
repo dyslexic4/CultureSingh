@@ -1,6 +1,6 @@
 
 # 📋 Requirements Document  
-## Culture Sync – AI Cultural Intelligence Platform  
+## Culture Singh – AI Cultural Intelligence Platform  
 
 ---
 
@@ -87,4 +87,4 @@
 
 ---
 
-*Culture Sync – Hackathon 2026*
+*Culture Singh – Hackathon 2026*
