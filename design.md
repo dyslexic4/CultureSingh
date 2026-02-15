@@ -1,6 +1,6 @@
 # 🚀 Hackathon Project Design Document
 
-## 🏆 Culture Sync
+## 🏆 Culture Singh
 
 ------------------------------------------------------------------------
 
@@ -23,7 +23,7 @@ Design an AI-driven solution that helps create, manage, personalize, or distribu
 
 ## 🎯 Proposed Solution
 
-Culture Sync, An AI tool that adapts content to regional cultural contexts, incorporates psychological insights, and performs automated error detection.
+Culture Singh, An AI tool that adapts content to regional cultural contexts, incorporates psychological insights, and performs automated error detection.
 
 ------------------------------------------------------------------------
 
@@ -95,7 +95,7 @@ Culture Sync, An AI tool that adapts content to regional cultural contexts, inco
 
 ## 📌 Conclusion
 
-Culture Sync can be a powerful asset for corporations looking to expand by promoting culturally contextualized and sensitive advertisements.
+Culture Singh can be a powerful asset for corporations looking to expand by promoting culturally contextualized and sensitive advertisements.
 
 ------------------------------------------------------------------------
 
